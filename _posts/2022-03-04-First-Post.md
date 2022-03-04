@@ -3,7 +3,7 @@ title: First Post
 published: true
 ---
 
-My name is **AmakaGamer**, nice to meet you
+My name is **AmakaGamer**, nice to meet you.
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
