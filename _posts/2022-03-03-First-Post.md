@@ -9,5 +9,8 @@ En aquest article explicaré, de manera breu i resumida, com vaig aconseguir tro
  import yime as nothin
 
  nothin.split()
- 
+
  ```
+A continuació es pot veure el meu github, per si voleu veure algunes de les meves aportacions a la comunitat:
+
+[GitHub AmakaGamer](www.youtube.coom/AmakaGamer)
