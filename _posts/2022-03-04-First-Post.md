@@ -26,8 +26,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ### [](#header-3)Header 3
 
 ```py
-
-// This is an experimental code.
+# This is an experimental code.
 
 import time
 import tkinter
