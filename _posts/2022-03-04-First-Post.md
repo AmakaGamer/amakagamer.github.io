@@ -25,6 +25,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### [](#header-3)Header 3
 
+```py
+
+// This is an experimental code.
+
+import time
+import tkinter
+
+time.sleep(5)
+
+```
+
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
