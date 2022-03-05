@@ -13,4 +13,4 @@ En aquest article explicaré, de manera breu i resumida, com vaig aconseguir tro
  ```
 A continuació es pot veure el meu github, per si voleu veure algunes de les meves aportacions a la comunitat:
 
-[GitHub AmakaGamer](https://www.youtube.coom/AmakaGamer)
+[GitHub AmakaGamer](https://www.youtube.com/AmakaGamer)
