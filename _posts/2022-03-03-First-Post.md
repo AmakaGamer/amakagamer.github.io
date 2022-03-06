@@ -5,6 +5,7 @@ published: true
 
 En aquest article explicaré, de manera breu i resumida, com vaig aconseguir trobar un tema que m'agradés tant com per poder-me passar tot un any de la meva vida treballant en ell. Es podrà veure quins van ser els passos per fer la tria del tema del Treball de Recerca de 1r de Batxillerat.
 
+
 ```py
 import random
 
@@ -23,6 +24,7 @@ class Operacions:
         res = random.randint(min_num, max_num)
 
  ```
+ 
 A continuació es pot veure el meu github, per si voleu veure algunes de les meves aportacions a la comunitat:
 
 [GitHub AmakaGamer](https://www.youtube.com/AmakaGamer)
