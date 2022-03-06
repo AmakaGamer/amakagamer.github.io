@@ -22,9 +22,10 @@ class Operacions:
 
     def suma(min_num, max_num, min_xif, max_xif):
         res = random.randint(min_num, max_num)
+        i = min_xif
 
  ```
- 
+
 A continuació es pot veure el meu github, per si voleu veure algunes de les meves aportacions a la comunitat:
 
 [GitHub AmakaGamer](https://www.youtube.com/AmakaGamer)
